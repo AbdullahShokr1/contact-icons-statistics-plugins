@@ -1,0 +1,22 @@
+/* // Add CSS for buttons in your theme's style.css */
+.contact-buttons {
+    /* Your CSS styles */
+}
+a.phone-icon {
+    /* Shared button styles */
+    position: fixed;
+    left: 15px;
+}
+a.whatsapp-icon {
+    /* Shared button styles */
+    position: fixed;
+    right: 15px;
+}
+a.phone-icon {
+    bottom: 80px;
+}
+a.whatsapp-icon {
+    /* WhatsApp button specific styles */
+    bottom: 80px;
+}
+
